@@ -1,0 +1,14 @@
+train: C:/Users/Devarsh Soni/OneDrive/Desktop/maharani/data/train
+val: C:/Users/Devarsh Soni/OneDrive/Desktop/maharani/data/val
+test: C:/Users/Devarsh Soni/OneDrive/Desktop/maharani/data/test
+
+nc: 3
+names: ['airplane', 'car', 'large_vehicle']
+
+roboflow:
+  workspace: deavrsh-soni-4nnle
+  project: final-ehuih
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/deavrsh-soni-4nnle/final-ehuih/dataset/1
+  
